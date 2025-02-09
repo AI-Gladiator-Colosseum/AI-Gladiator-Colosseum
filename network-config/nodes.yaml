@@ -1,0 +1,32 @@
+# nodes.yaml - Configuration for distributed network nodes
+
+network:
+  name: AI-Gladiator-Colosseum-Network
+  protocol: "tcp"
+  max_connections: 50
+  retry_interval: 5  # Retry interval in seconds
+
+nodes:
+  - node_id: 1
+    ip_address: 192.168.1.1
+    port: 8080
+    status: "active"
+
+  - node_id: 2
+    ip_address: 192.168.1.2
+    port: 8081
+    status: "active"
+
+  - node_id: 3
+    ip_address: 192.168.1.3
+    port: 8082
+    status: "active"
+
+  - node_id: 4
+    ip_address: 192.168.1.4
+    port: 8083
+    status: "inactive"
+
+logging:
+  enabled: true
+  log_file: "network_logs.txt"
