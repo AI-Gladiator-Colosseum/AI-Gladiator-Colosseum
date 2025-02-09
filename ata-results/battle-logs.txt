@@ -1,0 +1,29 @@
+# battle-logs.txt - AI Gladiator Colosseum Battle Results
+
+[INFO] Battle ID: 1
+[INFO] Opponent: Warrior
+[INFO] Player Strategy: Aggressive
+[INFO] Player Attack Power: 60
+[INFO] Player Defense Power: 40
+[RESULT] Outcome: Victory
+
+[INFO] Battle ID: 2
+[INFO] Opponent: Mage
+[INFO] Player Strategy: Defensive
+[INFO] Player Attack Power: 40
+[INFO] Player Defense Power: 50
+[RESULT] Outcome: Defeat
+
+[INFO] Battle ID: 3
+[INFO] Opponent: Archer
+[INFO] Player Strategy: Balanced
+[INFO] Player Attack Power: 50
+[INFO] Player Defense Power: 35
+[RESULT] Outcome: Draw
+
+[INFO] Battle ID: 4
+[INFO] Opponent: Warrior
+[INFO] Player Strategy: Aggressive
+[INFO] Player Attack Power: 65
+[INFO] Player Defense Power: 30
+[RESULT] Outcome: Victory
