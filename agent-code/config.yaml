@@ -1,0 +1,19 @@
+# config.yaml - Configuration file for AI Gladiator Colosseum agent
+
+agent_name: "AI_Gladiator"
+strategy: "aggressive"
+attack_power: 60
+defense_power: 40
+luck_factor: 0.3
+
+# Battle environment settings
+environment:
+  arena_type: "Colosseum"
+  max_rounds: 5
+  weather_conditions: "clear"
+
+# Logging settings
+logging:
+  enable: true
+  log_file: "battle_logs.txt"
+  log_level: "INFO"
