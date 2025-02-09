@@ -1,0 +1,14 @@
+# initial-dataset.csv - Training data for AI Gladiator Colosseum agent
+# Columns: battle_id, opponent_type, player_attack, player_defense, result
+
+battle_id,opponent_type,player_attack,player_defense,result
+1,warrior,45,30,Victory
+2,mage,35,40,Defeat
+3,archer,50,35,Draw
+4,warrior,55,30,Victory
+5,mage,40,45,Defeat
+6,archer,60,35,Victory
+7,warrior,50,40,Draw
+8,mage,30,50,Defeat
+9,archer,45,30,Victory
+10,warrior,55,25,Victory
